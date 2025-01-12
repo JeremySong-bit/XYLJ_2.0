@@ -1,0 +1,31 @@
+{
+  "name": "mycesium",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@jamescoyle/vue-icon": "^0.1.2",
+    "@mdi/js": "^7.1.96",
+    "ant-design-vue": "^3.2.15",
+    "axios": "^1.7.2",
+    "cesium": "1.99",
+    "pinia": "^2.1.7",
+    "dayjs": "^1.11.11",
+    "simplebar-vue": "^2.3.4",
+    "vite-plugin-cesium": "^1.2.22",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.2",
+    "vue-seamless-scroll": "^1.1.23"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "svg-sprite-loader": "^6.0.11",
+    "vite": "^5.2.0"
+  }
+}
