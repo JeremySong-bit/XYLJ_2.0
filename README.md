@@ -43,4 +43,4 @@
 
 ![image](https://github.com/user-attachments/assets/04683a4d-6ee5-4a31-97ca-0f2f22065e7b)
 
-### 注明：本项目加载首页使用了jQuery提供的渐变色板，出处：http://www.htmleaf.com/html5/SVG/201801304957.html
+###### 注明：本项目加载首页使用了jQuery提供的渐变色板，出处：http://www.htmleaf.com/html5/SVG/201801304957.html
