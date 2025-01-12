@@ -8,6 +8,8 @@
 采用的开发平台和技术如下。
 ![image](https://github.com/user-attachments/assets/4cbf857e-0322-479f-920a-1acc8b7c9b14)
 
+#### 先导展示视频：[GIS工程作业：行云珞珈——先导视频](https://www.bilibili.com/video/BV1BzcGeZEFZ/?spm_id_from=333.1387.upload.video_card.click)
+
 ## 功能模块
 “行云珞珈——武大共享交通服务平台”的系统架构设计遵循既定的建设目
 标和任务，综合考虑了业务领域与用户需求。为确保系统的高效运作与用户友好
